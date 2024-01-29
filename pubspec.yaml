@@ -1,0 +1,50 @@
+name: altugen
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/microphone.png
+  - assets/event.png
+  - assets/shop.png
+  - assets/sanatci.png
+  - assets/g_festivali.jpg
+  - assets/no1.jpg
+  - assets/check.gif
+  - assets/tarkan.jpg
+  - assets/cross.gif
+  - assets/sagopa.jpeg
+  - assets/sagopa_konser.jpeg
+  - assets/shopping.png
+  - assets/konser2.jpg
+  - assets/konser3.jpeg
+  - assets/konser4.jpg
+  - assets/konser5.jpg
+  - assets/konser6.png
+  - assets/shoe.png
+  - assets/hoodie.png
+  - assets/clothes.png
+  - assets/trouser.png
+  - assets/ceza.jpeg
+  - assets/sagopa.jpg
+  - assets/saniser.jpg
+  - assets/norm_ender.jpeg
+  - assets/serdar_ortaç.jpg
+  - assets/krampon.png
+  - assets/terlik.png
+  - assets/tshirt.png
+  - assets/team_uniform.png
+  - assets/boot.png
